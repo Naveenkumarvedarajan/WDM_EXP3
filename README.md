@@ -175,7 +175,8 @@ else:
 ```
 ### Output:
 
-![alt text](screenshots/output.png)
+<img width="1918" height="711" alt="image" src="https://github.com/user-attachments/assets/ebf64b4f-f758-4e7f-bd97-3495e42b1728" />
+
 
 
 ### Visualization:
@@ -220,11 +221,13 @@ visualize_patterns_line(party_wear_result, "Party Wear")
 
 #### Top Wear Visualization
 
-![alt text](screenshots/top-wear-visualization.png)
+<img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/a44e0066-bd1b-491c-af0e-2cab1e14cb16" />
+
 
 #### Party wear visualization
 
-![alt text](screenshots/partywear-visualization.png)
+<img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/a1a6dbd0-1517-4f56-9b34-68babf23698d" />
+
 
 ### Result:
 
